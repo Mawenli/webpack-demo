@@ -1,0 +1,19 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "a webpack demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mali",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "jquery": "^3.3.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
